@@ -1,0 +1,23 @@
+.aiomatic_list_data{
+    padding: 10px;
+    background: #e1e1e1;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.aiomatic_modal{
+    top: 5%;
+    height: 90%;
+    position: relative;
+}
+.aiomatic_modal_content{
+    max-height: calc(100% - 103px);
+    overflow-y: auto;
+}
+.aiomatic-chk
+{
+    margin: 0 0 0 0;
+}
+.aiomatic-tdcol
+{
+    padding: 6px 0 0px!important;
+}

@@ -1,0 +1,10 @@
+.openai-chat-avatar
+{
+    border-radius: 50%;
+    height: 44px;
+    width: 44px;
+    clear: both;
+    display: block;
+    background: #E1F0FF;
+    position: relative;
+}

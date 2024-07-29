@@ -1,0 +1,135 @@
+#aiomatic-preview-image
+{
+    border-radius: 50%!important;
+}
+#aiomatic-preview-image-b
+{
+    border-radius: 50%!important;
+}
+#postimagediv .inside img
+{
+    border-radius: 50%!important;
+}
+.aiomatic-number-font
+{
+    font-weight: 700;
+    font-size: 15px;
+    margin-bottom: 0.5rem !important;
+    line-height: 1.1;
+    color: inherit;
+    margin-top: 10px;
+}
+#customized_chatbot
+{
+    user-select: all;
+    cursor: pointer;
+}
+.aiomatic-tab-disabled
+{
+    pointer-events: none;
+    color: #ccc;
+}
+.aiomatic-text-muted
+{
+    font-size: 13px;
+    color: #728096 !important;
+    margin-bottom: 0.5rem !important;
+    font-weight: 400;
+
+}
+.aiomatic-rounded-circle
+{
+    border-radius: 50%!important;
+}
+.aiomatic-text-center
+{
+    text-align: center;
+}
+.ai-user-avatar
+{
+    width:150px;
+    height:150px;
+}
+.aiomatic-col-lg-3
+{
+    flex: 0 0 24%;
+    max-width: 24%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 0.35rem;
+    padding-left: 0.35rem;
+    padding-bottom: 10px;
+}
+@media only screen and (max-width: 1400px) 
+{
+    .aiomatic-col-lg-3
+    {
+        flex: 0 0 23%;
+        max-width: 23%;
+    }
+}
+@media only screen and (max-width: 1200px) 
+{
+    .aiomatic-col-lg-3
+    {
+        flex: 0 0 47%;
+        max-width: 47%;
+    }
+}
+.aiomatic-chat-boxes
+{
+    position: relative;
+    margin-top: -1.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+.aiomatic-chat-boxes:hover, .aiomatic-chat-boxes:focus {
+    transform: scale(1.05);
+    z-index: 100;
+}
+.aiomatic-card-body
+{
+    min-height: 155px;
+    flex: 1 1 auto;
+    margin: 0;
+    padding: 1rem 1.5rem;
+    position: relative;
+    padding-top: 0.75rem !important;
+    font-family: "Poppins", sans-serif;
+    background-color: #eee;
+}
+.aiomatic-widget-user-image
+{
+    clear: both;
+    margin: 0 auto;
+    display: block;
+    border-radius: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.aiomatic-card
+{
+    font-family: "Lato", sans-serif;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    position: relative;
+    margin-bottom: 1.5rem;
+    width: 100%;
+    border: 1px solid #dbe2eb;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    border: 0 !important;
+}
+.back-but
+{
+    margin: 0 auto;
+    font-size: 1rem;
+    line-height: 1rem;
+    padding: 0.375rem 0.75rem;
+}
