@@ -3,7 +3,7 @@
  * Plugin Update Checker Library 5.2
  * http://w-shadow.com/
  *
- * Copyright 2022 Janis Elsts
+ * Copyright 2022 Gaurav Kumar yadav 
  * Released under the MIT license. See license.txt for details.
  */
 
